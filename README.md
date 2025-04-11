@@ -18,4 +18,4 @@ To run the scanner:
 cargo run -- --ip <IP_ADDRESS> --start-port <START> --end-port <END>
 
 Example:
-cargo run -- --ip 127.0.0.1 --start-port 20 --end-port 100
+cargo run -- --ip 127.0.0.1 --start-port 20 --end-port 1024
